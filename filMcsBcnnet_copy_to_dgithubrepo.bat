@@ -1,0 +1,1 @@
+copy filMcsBcnnet* D:\dAGitHub\filMcsBcnnet\
